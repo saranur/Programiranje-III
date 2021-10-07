@@ -11,7 +11,10 @@ Repozitorij za zadatke iz Programiranja III
 <br>
 <ul>
 
-<li><a href="">Predavanje</a></li>
+<li><a href=""> Predavanje 1 </a>(05.10.2021)</li>
+<li><a href=""> Predavanje 2 </a>(12.10.2021)</li>
+<li><a href=""> Predavanje 3 </a>(19.10.2021)</li>
+<li><a href=""> Predavanje 4 </a>(26.10.2021)</li>
   </ul>
 </details>
 <hr>
@@ -22,13 +25,15 @@ Repozitorij za zadatke iz Programiranja III
 <br>
 <ul>
 
-<li><a href="">Vježba </a></li>
+<li><a href="">Vježba 1</a> (14.10.2021)</li>
+<li><a href="">Vježba 2</a> (21.10.2021)</li>
+<li><a href="">Vježba 3</a> (28.10.2021)</li>
   </ul>
 </details>
 <hr>
 
 <details>
-  <summary>ispitni zadaci</summary>
+  <summary>Ispitni zadaci</summary>
 <br>
 <ul>
 
