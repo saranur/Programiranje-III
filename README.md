@@ -3,7 +3,7 @@ Repozitorij za zadatke iz Programiranja III
 </br>
 [Snimljena Predavanja 2020/2021](https://www.youtube.com/watch?v=tnpxdGQKKF0&list=PLJCjqoTZy0H-ELJL4GxKjSKCy8cp2xNNh)
 <br>
-[Snimljena Predavanja 2021/2022](url)
+[Snimljena Predavanja 2021/2022](https://www.youtube.com/watch?v=HbkETQVcAEc&list=PL2dH2rssdMKqx2H9UBei4z6o89KFtl8OL)
 <hr>
 
 <details>
