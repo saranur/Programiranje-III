@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLWMS.ConsoleApp", "DLWMS.ConsoleApp\DLWMS.ConsoleApp.csproj", "{ECD40F5B-07EF-48D9-A3E9-CEC9A0AFF051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLWMS.Data", "DLWMS.Data\DLWMS.Data.csproj", "{B0535528-B67C-46B9-AE67-32E9092F9F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD40F5B-07EF-48D9-A3E9-CEC9A0AFF051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD40F5B-07EF-48D9-A3E9-CEC9A0AFF051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD40F5B-07EF-48D9-A3E9-CEC9A0AFF051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD40F5B-07EF-48D9-A3E9-CEC9A0AFF051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0535528-B67C-46B9-AE67-32E9092F9F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0535528-B67C-46B9-AE67-32E9092F9F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0535528-B67C-46B9-AE67-32E9092F9F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0535528-B67C-46B9-AE67-32E9092F9F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41937BCF-2053-4E1D-BC28-3658BFB6C730}
+	EndGlobalSection
+EndGlobal
