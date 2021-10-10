@@ -12,7 +12,7 @@ Repozitorij za zadatke iz Programiranja III
 <br>
 <ul>
 
-<li><a href=""> Predavanje 1 </a>(05.10.2021)</li>
+  <li><a href=""> Predavanje 1 </a>(05.10.2021)<a href=""> Teoretski dio</a></li>
 <li><a href=""> Predavanje 2 </a>(12.10.2021)</li>
 <li><a href=""> Predavanje 3 </a>(19.10.2021)</li>
 <li><a href=""> Predavanje 4 </a>(26.10.2021)</li>
