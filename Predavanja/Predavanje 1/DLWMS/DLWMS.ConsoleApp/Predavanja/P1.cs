@@ -26,7 +26,7 @@ namespace DLWMS.ConsoleApp.Predavanja
             int b = a; //ovdje je b samo preuzela vrijednost a, ukoliko a promijenimo, b ce ostati nepromjenjeno
             a = 2000;
 
-            Ispisi();
+            //Ispisi();
             /*
             int a = new int(); 
             //ova linija koda inicijalizuje varijablu a nekom defaultnom vrijednoscu 
@@ -64,14 +64,14 @@ namespace DLWMS.ConsoleApp.Predavanja
 
         private static void Klase()
         {
-            Student Sara = new Student(200002, "Sara", "Nur");
-            Console.WriteLine(Sara.GetIndeks());
-            Sara.SetIndeks(210021);
-            Console.WriteLine(Sara.GetIndeks());
-            Sara.Indeks = 300003;
-            Console.WriteLine(Sara.Indeks);
-            Sara.Ime = "Rasasa";
-            Console.WriteLine(Sara.Ime);
+            Student denis = new Student(200002, "Denis", "Music");
+            Console.WriteLine(denis.GetIndeks());
+            denis.SetIndeks(210021);
+            Console.WriteLine(denis.GetIndeks());
+            denis.Indeks = 300003;
+            Console.WriteLine(denis.Indeks);
+            denis.Ime = "Denis";
+            Console.WriteLine(denis.Ime); 
 
             Student jasmin = new Student(indeks: 200014, prezime: "Jasminovic", ime: "Jamin");
             //Mozemo raditi bilo kojim redoslijedom, samo trebamo naglasiti koji parametar saljemo 
@@ -94,6 +94,7 @@ namespace DLWMS.ConsoleApp.Predavanja
 
         private static void TipoviPodataka() 
         {
+           // throw new NotImplementedException(); //dodamo kako bi nas obavijesio da smo zaboravili da dodamo implementaciju odredjene metode
             int indeks = 210021;
             string ime = "Denis";
             bool aktivan = true;

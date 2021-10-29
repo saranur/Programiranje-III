@@ -15,14 +15,15 @@ namespace DLWMS.Data
     {
         string _ime;
         string _prezime;
-        
         int _indeks;
         public int GetIndeks() { return _indeks; }
         public void SetIndeks(int indeks) { _indeks = indeks; }
         
         //Ove tri linije koda se mogu staviti u jednu liniju koda koristeci property:  public int Indeks { get; set; }
         //public int Indeks { get; set; }
+       
         //Ukoliko zelimo dodatno da nesto mijenjam ili dodajemo, mozemo to uraditi u vitiacstim zagradama
+       
         public int Indeks
         {
             //Mi cemo najcesce korisiti public int Indeks{get; set;}
@@ -35,7 +36,7 @@ namespace DLWMS.Data
                 if (value > 200000 && value < 400000)
                     _indeks = value;
             }
-        }
+        } 
         //snippet je prop + tab tab
         public string Ime { get; set; }
         public string Prezime { get; set; }
