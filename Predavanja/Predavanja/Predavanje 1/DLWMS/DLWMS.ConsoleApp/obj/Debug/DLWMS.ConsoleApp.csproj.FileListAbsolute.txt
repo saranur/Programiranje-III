@@ -1,0 +1,10 @@
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\bin\Debug\DLWMS.ConsoleApp.exe.config
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\bin\Debug\DLWMS.ConsoleApp.exe
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\bin\Debug\DLWMS.ConsoleApp.pdb
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.exe
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.pdb
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\bin\Debug\DLWMS.Data.dll
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\bin\Debug\DLWMS.Data.pdb
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.ConsoleApp\obj\Debug\DLWMS.ConsoleApp.csproj.CopyComplete

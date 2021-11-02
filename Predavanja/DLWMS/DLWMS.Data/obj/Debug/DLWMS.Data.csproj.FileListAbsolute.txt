@@ -1,0 +1,6 @@
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.Data\bin\Debug\DLWMS.Data.dll
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.Data\bin\Debug\DLWMS.Data.pdb
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.Data\obj\Debug\DLWMS.Data.csproj.AssemblyReference.cache
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.Data\obj\Debug\DLWMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.Data\obj\Debug\DLWMS.Data.dll
+C:\Users\Sara Nur\OneDrive - Faculty of Information Technologies\Documents\C#\Programiranje III\DLWMS\DLWMS.Data\obj\Debug\DLWMS.Data.pdb
